@@ -34,8 +34,8 @@ function Login(props){
         
          localStorage.setItem('otp',otp);
          localStorage.setItem('isstatus','otp');
-         sendEmail();
-         navigate('/otp');
+         // sendEmail();
+         navigate('../otp');
         
         
       }
