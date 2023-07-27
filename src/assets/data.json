@@ -1,0 +1,22 @@
+[
+{
+            "qid":1,
+        "questionname":"HTML Stands For?",
+        "answer":[
+               {"option":"Hypertext Markup Language","isoption":true},
+               {"option":"Hightype Makeing Language","isoption":false},
+               {"option":"High transfer mailing","isoption":true}
+        ]
+    },
+    {
+    "qid":2,
+    "questionname":"which type render it?",
+    "answer":[
+           {"option":"Web browser","isoption":true},
+           {"option":"web server","isoption":false},
+           {"option":"others","isoption":true}
+    ]
+}
+    
+    
+]
