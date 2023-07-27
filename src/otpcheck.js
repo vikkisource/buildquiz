@@ -18,7 +18,7 @@ import { useNavigate } from "react-router-dom";
        if( otp == localStorage.getItem('otp')){
           
            localStorage.setItem('isstatus','quizstart');
-          navigate('../quiz1');
+          navigate('/quiz1');
        }
        else{
          alert('OTP Not Valid');

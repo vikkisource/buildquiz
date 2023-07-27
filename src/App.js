@@ -23,7 +23,7 @@ function App() {
         <Route path='quizbuild/otp' element={<Otpcheck  />} />
         
         <Route path='quiz' element={<Quiz />} />
-        <Route path='quizbuild/quiz1' element={<Quiz1 />} />
+        <Route path='quiz1' element={<Quiz1 />} />
        
        </Routes>
       
